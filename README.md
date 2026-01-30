@@ -19,3 +19,5 @@ Command 8: rmdir / rm - Removes directory or file.
 Command 9: cp – Copy files or directories.
 
 Command 10: mv – Move or rename files or directories.
+
+Command 11: chmod – Change file permissions.

@@ -23,3 +23,5 @@ Command 10: mv – Move or rename files or directories.
 Command 11: chmod – Change file permissions.
 
 Command 12: git init – Initialize a new Git repository.
+
+Command 13: git clone – Clone a repository from a URL.

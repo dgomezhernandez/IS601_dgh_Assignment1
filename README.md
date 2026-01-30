@@ -27,3 +27,5 @@ Command 12: git init – Initialize a new Git repository.
 Command 13: git clone – Clone a repository from a URL.
 
 Command 14: git add – Add a file to the staging area.
+
+Command 15: git commit -m "message" – Commit changes with a message.

@@ -9,3 +9,5 @@ Command 3: cd - It is used to change directory.
 Command 4: whoami - It shows who is currently login's user name.
 
 Command 5: clear - It is used to clear the screen.
+
+Command 6: mkdir - To create an empty directory.

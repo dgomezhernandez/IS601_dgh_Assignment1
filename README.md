@@ -30,7 +30,7 @@ Command 14: git add – Add a file to the staging area.
 
 Command 15: git commit -m "message" – Commit changes with a message.
 
-
+------------------------------------------------------------
 *Extra Useful Commands:*
 
 git branch <branch_name> – Create a new branch.

@@ -7,3 +7,5 @@ Command 2: pwd - It shows the present worning directory.
 Command 3: cd - It is used to change directory.
 
 Command 4: whoami - It shows who is currently login's user name.
+
+Command 5: clear - It is used to clear the screen.

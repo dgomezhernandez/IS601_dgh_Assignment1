@@ -17,3 +17,5 @@ Command 7: touch - To create an empty file.
 Command 8: rmdir / rm - Removes directory or file.
 
 Command 9: cp – Copy files or directories.
+
+Command 10: mv – Move or rename files or directories.

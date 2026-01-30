@@ -29,3 +29,14 @@ Command 13: git clone – Clone a repository from a URL.
 Command 14: git add – Add a file to the staging area.
 
 Command 15: git commit -m "message" – Commit changes with a message.
+
+Extra Useful Commands: git branch – List all branches.
+git branch <branch_name> – Create a new branch.
+git checkout <branch_name> – Switch to a specified branch.
+git stash – Temporarily save changes without committing.
+git stash pop – Apply stashed changes and remove them from the stash.
+git stash list – List all stashed changes.
+git stash drop – Remove a specific stash.
+git stash clear – Remove all stashes.
+git status – Show files with conflicts.
+

@@ -11,3 +11,5 @@ Command 4: whoami - It shows who is currently login's user name.
 Command 5: clear - It is used to clear the screen.
 
 Command 6: mkdir - To create an empty directory.
+
+Command 7: touch - To create an empty file.
